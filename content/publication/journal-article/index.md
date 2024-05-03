@@ -1,11 +1,11 @@
 ---
 title: "An example journal article"
 authors:
+- TaeHo Yoon
 - admin
-- Robert Ford
+- Jaewook J. Suh
+  Ernest K. Ryu
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
