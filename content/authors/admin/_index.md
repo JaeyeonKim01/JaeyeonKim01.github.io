@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Jaeyeon Kim
 
 # Name pronunciation (optional)
 name_pronunciation: Jaeyeon Kim
