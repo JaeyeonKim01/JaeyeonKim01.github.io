@@ -116,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, my name is Jaeyeon Kim! I'm currently an undergraduate in SNU, and will be joining Harvard University as a Ph.D. student at CS. My research interest spans optimization and machine learning.
 {style="text-align: justify;"}
