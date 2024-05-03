@@ -3,7 +3,7 @@
 title: Jaeyeon Kim
 
 # Name pronunciation (optional)
-name_pronunciation: Jaeyeon Kim
+# name_pronunciation: Jaeyeon Kim
 
 # Full name (for SEO)
 first_name: Jaeyeon
