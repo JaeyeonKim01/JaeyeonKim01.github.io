@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: collection
+ /* - block: collection
     id: featured
     content:
       title: Featured Publications
@@ -15,7 +15,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: card */
   - block: collection
     content:
       title: Recent Publications
