@@ -35,10 +35,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: Ph.D. in Computer Science
       institution: Harvard University
       year: 2024
-    - course: BS in Mathematics
+    - course: B.S. in Mathematics
       institution: Seoul National University
       year: 2020
 
