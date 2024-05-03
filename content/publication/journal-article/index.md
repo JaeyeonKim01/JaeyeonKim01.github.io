@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique"
 authors:
 - TaeHo Yoon
 - admin
