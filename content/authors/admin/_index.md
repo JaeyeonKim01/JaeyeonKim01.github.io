@@ -6,8 +6,8 @@ title: Jaeyeon Kim
 # name_pronunciation: Jaeyeon Kim
 
 # Full name (for SEO)
-first_name: Jaeyeon
-last_name: Kim
+#first_name: Jaeyeon
+#last_name: Kim
 
 # Status emoji
 status:
