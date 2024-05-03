@@ -4,7 +4,7 @@ authors:
 - TaeHo Yoon
 - admin
 - Jaewook J. Suh
-  Ernest K. Ryu
+- Ernest K. Ryu
 author_notes:
 date: "2015-09-01T00:00:00Z"
 doi: ""
@@ -62,7 +62,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
