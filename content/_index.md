@@ -64,16 +64,16 @@ sections:
           company_url: ''
           company_logo: 
           location: California
-          date_start: '2023-07'
-          date_end: '2023-08'
+          date_start: '2023-07-01'
+          date_end: '2023-08-31'
           description: Under Professor Asu Ozdaglar
         - title: Research Intern
           company: Seoul National University
           company_url: ''
           company_logo: 
           location: 
-          date_start: '2022-09'
-          date_end: '2024-02'
+          date_start: '2022-09-01'
+          date_end: '2024-02-29'
           description: Under Professor Ernest Ryu
     design:
       columns: '2'
