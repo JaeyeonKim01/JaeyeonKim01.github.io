@@ -81,8 +81,7 @@ sections:
   - block: markdown
     content:
       title: Teaching Experiences
-      text: xxx
-      text: xxx
+      text: *2024 Spring*, Student Seminar <br> *2024 Spring*, Mathematical Machine Learning Theory <br> *2022 Fall*, Mathematical Foundation of Deep Neural Networks
     design:
       columns: '2'
 
