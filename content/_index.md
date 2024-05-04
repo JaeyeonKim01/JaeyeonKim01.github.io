@@ -79,12 +79,12 @@ sections:
       columns: '2'
     
   - block: collection
-      id: talks
-      content:
-        title: Teaching Experience
-        filters:
-          folders:
-            - event
+    id: talks
+    content:
+      title: Teaching Experience
+      filters:
+        folders:
+          - event
 # - block: accomplishments
 #     content:
 #       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
