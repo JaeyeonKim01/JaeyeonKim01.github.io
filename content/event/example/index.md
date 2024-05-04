@@ -28,7 +28,7 @@ title: *2022 Fall*, Mathematical Foundation of Deep Neural Networks
 # tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+# featured: false
 
 # image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
