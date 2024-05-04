@@ -78,13 +78,10 @@ sections:
     design:
       columns: '2'
     
-  - block: accomplishments
-    id: talks
+ - block: markdown
     content:
-      title: Teaching Experience
-      items:
-        - title: 'xxxx'
-        - title: 'xxxx'
+      title: Teaching Experiences
+      subtitle: 'xxx'
     design:
       columns: '2'
 # - block: accomplishments
