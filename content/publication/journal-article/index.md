@@ -6,11 +6,11 @@ authors:
 - Jaewook J. Suh
 - Ernest K. Ryu
 author_notes:
-date: "2024"
+date: "2024-04-30"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024"
+publishDate: "2024-04-30"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
