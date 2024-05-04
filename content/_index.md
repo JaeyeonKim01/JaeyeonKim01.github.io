@@ -83,8 +83,9 @@ sections:
     content:
       title: Teaching Experience
       filters:
-        folders:
-          - event
+        title: '*2024 Spring*, Mathematical Machine Learning Theory'
+        title: '*2024 Spring*, Student Independent Seminar'
+        title: '*2022 Fall*, Mathematical Foundation of Deep Neural Networks'
     design:
       columns: '2'
 # - block: accomplishments
