@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  #- block: collection
+  # - block: collection
   #  id: featured
   #  content:
   #   title: Featured Publications
@@ -19,10 +19,6 @@ sections:
   - block: collection
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
