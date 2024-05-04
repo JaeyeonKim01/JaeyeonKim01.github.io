@@ -6,7 +6,7 @@ authors:
 - Jaewook J. Suh
 - Ernest K. Ryu
 author_notes:
-date: "2015-09-01T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
