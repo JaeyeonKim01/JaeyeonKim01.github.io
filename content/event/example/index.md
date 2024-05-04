@@ -1,5 +1,5 @@
 ---
-title: '*2022 Fall*, Mathematical Foundation of Deep Neural Networks'
+title: "*2022 Fall*, Mathematical Foundation of Deep Neural Networks"
 
 # event: Hugo Blox Builder Conference
 # event_url: https://example.org
