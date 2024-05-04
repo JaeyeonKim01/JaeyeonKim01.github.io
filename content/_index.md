@@ -81,7 +81,8 @@ sections:
   - block: markdown
     content:
       title: Teaching Experiences
-      text: XXXXX
+      text: xxx
+      text: xxx
     design:
       columns: '2'
 
