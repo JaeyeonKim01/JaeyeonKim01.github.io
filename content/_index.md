@@ -82,7 +82,9 @@ sections:
     id: talks
     content:
       title: Teaching Experience
-      static_content: '*2022 Fall*, Mathematical Foundation of Deep Neural Networks'
+      items:
+        - title: 'xxxx'
+        - title: 'xxxx'
     design:
       columns: '2'
 # - block: accomplishments
