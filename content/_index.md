@@ -78,7 +78,7 @@ sections:
     design:
       columns: '2'
     
-  - block: collection
+  - block: accomplishments
     id: talks
     content:
       title: Teaching Experience
