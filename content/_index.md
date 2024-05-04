@@ -81,7 +81,8 @@ sections:
   - block: markdown
     content:
       title: Teaching Experiences
-      subtitle: 'xxx'
+      items:
+        title: 'xxx'
     design:
       columns: '2'
 
