@@ -25,12 +25,12 @@ organizations:
     url: https://www.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include theoretical perspective of Machine Learning.
+bio: My research interest spans theoretical perspective of Machine Learning.
 
 # Interests to show in About widget
 interests:
   - Machine Learning Theory
-  - Optimization
+  - Optimization Theory
 
 # Education to show in About widget
 education:
@@ -92,29 +92,33 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Jaeyeon_Kim_0
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=1bXthLsAAAAJ&hl=ko
+ # - icon: github
+ #   icon_pack: fab
+ #   link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jaeyeon-kim-75317b281/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hi, my name is Jaeyeon Kim! I'm currently an undergraduate in SNU, and will be joining Harvard University as a Ph.D. student at CS. My research interest spans optimization and machine learning.
+Hi, my name is Jaeyeon Kim! I'm currently an undergraduate in SNU, and will be joining Harvard University as a Ph.D. student at CS. My research interest spans optimization and machine learning. 
+<br> 
+Feel free to reach me! I'd love to discuss and potentially collaborate on machine learning theory.
+<br> 
+In my undergraduate research journey, I was fortunate to work with Prof. Asuman Ozdglar and Prof. Ernest Ryu. I've also been closely working with Chanwoo Park since 2022.
 {style="text-align: justify;"}
