@@ -16,8 +16,11 @@ main:
   - name: Publications
     url: 'publications'
     weight: 20
+  - name: News
+    url: 'news'
+    weight: 30    
   - name: CV
-    url: 'projects'
+    url: '40'
     weight: 30
  # - name: Contact
  #   url: '#contact'
