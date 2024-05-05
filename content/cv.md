@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: portfolio
-    id: projects
+    id: cv
     content:
       title: Projects
       filters:
