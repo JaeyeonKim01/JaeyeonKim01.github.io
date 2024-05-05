@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Honors and awards
+      title: News
       text: '2022, **NeurIPS Scholar Award** <br><br>
             2021, **Simon Marais Mathematics Competition, 3rd prize** <br><br>
             2020, 2021, **Korean Undergraduates Mathematics Competition, Gold Prize** <br><br>
