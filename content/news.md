@@ -10,8 +10,7 @@ sections:
   - block: markdown
     content:
       title: News
-      text: '
-    <i class="fa-thin fa-newspaper"></i> &nbsp; [2023.12] &nbsp; I attended NeurIPS 2023 and gave a poster presentation. <br><br>
+      text: '<i class="fa-thin fa-newspaper"></i> &nbsp; [2023.12] &nbsp; I attended NeurIPS 2023 and gave a poster presentation. <br><br>
     <i class="fa-thin fa-newspaper"></i> &nbsp; [2023.11] &nbsp; Excited to announce Mirror Duality in Convex Optimization, which is the joint work with Prof. Asuman Ozdaglar and Chanwoo Park at MIT EECS and Prof. Jelena Diakonikolas at UW-Madison CS. This paper provides a novel perspective on gradient reduction in the mirror descent framework for Banach spaces, and we hope this work opens the door to interesting questions on gradient reduction algorithms. <br><br>
     <i class="fa-thin fa-newspaper"></i> &nbsp; [2023.09] &nbsp; H-duality paper is accepted at NeurIps 2023. <br><br>
     <i class="fa-thin fa-newspaper"></i> &nbsp; [2023.07] &nbsp; I attended ICML 2023, and gave an oral presentation (Top 3 papers) at the Workshop: Duality Principles in Modern Machine Learning. <br><br>
