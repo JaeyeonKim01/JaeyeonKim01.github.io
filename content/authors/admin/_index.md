@@ -120,5 +120,5 @@ Hi, my name is Jaeyeon Kim! I'm currently an undergraduate in SNU, and will be j
 <br> 
 Feel free to reach me! I'd love to discuss and potentially collaborate on machine learning theory.
 <br> 
-In my undergraduate research journey, I was fortunate to work with Prof. Asuman Ozdglar and Prof. Ernest Ryu. I've also been closely working with Chanwoo Park since 2022.
+In my undergraduate research journey, I was fortunate to work with Prof. Asuman Ozdaglar and Prof. Ernest Ryu. I've also been closely working with Chanwoo Park since 2022.
 {style="text-align: justify;"}
