@@ -20,7 +20,7 @@ main:
     url: 'publications'
     weight: 50
   - name: CV
-    url: 'CV'
+    url: 'publications'
     weight: 50
  # - name: Contact
  #   url: '#contact'
