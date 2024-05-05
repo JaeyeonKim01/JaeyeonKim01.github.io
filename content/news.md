@@ -3,9 +3,6 @@
 title: ''
 date: 2022-10-24
 type: landing
-
-<i class="fa-thin fa-newspaper"></i> &nbsp;
-
 sections:
   - block: markdown
     content:
