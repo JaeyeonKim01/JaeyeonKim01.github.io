@@ -35,20 +35,20 @@ sections:
   - block: markdown
     content:
       title: Teaching Experiences
-      text: '<i class="fas fa-book-open"></i> 2024 Spring, **Student Seminar** <br><br>
-             <i class="fas fa-book-open"></i> 2024 Spring, **Mathematical Machine Learning Theory** <br><br>
-             <i class="fas fa-book-open"></i> 2022 Fall, **Mathematical Foundation of  Deep Neural Networks**'
+      text: '<i class="fas fa-chalkboard"></i>  **Student Seminar**, 2024 Spring <br><br>
+             <i class="fas fa-chalkboard"></i> **Mathematical Machine Learning Theory**, 2024 Spring <br><br>
+             <i class="fas fa-chalkboard"></i> **Mathematical Foundation of  Deep Neural Networks**, 2022 Fall'
     design:
       columns: '1'
     
   - block: markdown
     content:
       title: Honors and awards
-      text: '2022, **NeurIPS Scholar Award** <br><br>
-            2021, **Simon Marais Mathematics Competition, 3rd prize** <br><br>
-            2020, 2021, **Korean Undergraduates Mathematics Competition, Gold Prize** <br><br>
-            2020-2023, **Presidential Science Scholarship from Korea Student Aid Foundation** <br><br>
-            2019, **Romanian Masters of Mathematics, Silver Medal**'
+      text: '<i class="fas fa-trophy"></i> **NeurIPS Scholar Award**, 2022 <br><br>
+            <i class="fas fa-trophy"></i> **Simon Marais Mathematics Competition, 3rd prize**, 2021 <br><br>
+            <i class="fas fa-trophy"></i> **Korean Undergraduates Mathematics Competition, Gold Prize**, 2020, 2021 <br><br>
+            <i class="fas fa-trophy"></i> **Presidential Science Scholarship from Korea Student Aid Foundation**, 2020 - 2023 <br><br>
+            <i class="fas fa-trophy"></i> **Romanian Masters of Mathematics, Silver Medal**, 2019'
     design:
       columns: '1'
     
