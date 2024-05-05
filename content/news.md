@@ -7,19 +7,19 @@ sections:
     content:
       title: News
       text: |
-        <i class="fa-regular fa-newspaper"></i> &nbsp; [2024.09] &nbsp; I'll start my Ph.D. at Harvard University, prospectively advised by Prof. Sitan Chen. I'm really thrilled to pursue my research career at Harvard University! <br><br>
-        <i class="fa-regular fa-newspaper"></i> &nbsp; [2024.04] &nbsp; Excited to announce my new paper, Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique (ICML 2024). We present that the optimal acceleration mechanism in minimax optimization and fixed-point problems is not unique. Surprisingly, our new algorithms are H-dual to the prior anchor-based accelerated methods: We discover H-duality in another setups!   <br><br>
-        <i class="fa-regular fa-newspaper"></i> &nbsp; [2023.12] &nbsp; I attended NeurIPS 2023 and gave a poster presentation. <br><br>
-        <i class="fa-regular fa-newspaper"></i> &nbsp; [2023.11] &nbsp; Excited to announce Mirror Duality in Convex Optimization, which is the joint work with MIT EECS and UW Madion CS. This paper provides a novel perspective on gradient reduction in the mirror descent framework for Banach spaces, and we hope this work opens the door to interesting questions on gradient reduction algorithms. <br><br>
-        <i class="fa-regular fa-newspaper"></i> &nbsp; [2023.09] &nbsp; H-duality paper is accepted at NeurIps 2023. <br><br>
-        <i class="fa-regular fa-newspaper"></i> &nbsp; [2023.07] &nbsp; I attended ICML 2023, and gave an oral presentation (Top 3 papers) at the Workshop: Duality Principles in Modern Machine Learning. <br><br>
-        <i class="fa-regular fa-newspaper"></i> &nbsp; [2023.07] &nbsp; I started a research internship under Prof. Asuman Ozdaglar. We hope to extend H-duality, which is presented in my paper, into various settings. <br><br>
-        <i class="fa-regular fa-newspaper"></i> &nbsp; [2023.05] &nbsp; My first paper is uploaded in Arxiv! This is the joint work with MIT EECS. This work presents a new duality principle: H-duality, a duality between optimization algorithms for reducing function values and reducing gradient magnitude. To the best of our knowledge, this work is the first instance of a duality of optimization algorithms. <br><br>
-        <i class="fa-regular fa-newspaper"></i> &nbsp; [2022.09] &nbsp; I joined the Optimization Research Group led by Prof. Ernest Ryu as a research intern.  <br><br>
-        <i class="fa-regular fa-newspaper"></i> &nbsp; [2021.12] &nbsp; I won a gold medal in the Korean Mathematics Competition for Undergraduate Students. <br><br>
-        <i class="fa-regular fa-newspaper"></i> &nbsp; [2021.10] &nbsp; I'm in third place in the pair section of the Simon-Mararis Mathematics Competition, with Taeyeong Noh. <br><br>
-        <i class="fa-regular fa-newspaper"></i> &nbsp; [2020.12] &nbsp; I won a gold medal in the Korean Mathematics Competition for Undergraduate Students. <br><br>
-        <i class="fa-regular fa-newspaper"></i> &nbsp; [2019.02] &nbsp; I won a silver medal (11th place) in the Romanian Masters of Mathematics.
+        <i class="fa-regular fa-newspaper"></i> &nbsp; **2024.09** &nbsp; I'll start my Ph.D. at Harvard University, prospectively advised by Prof. Sitan Chen. I'm really thrilled to pursue my research career at Harvard University! <br><br>
+        <i class="fa-regular fa-newspaper"></i> &nbsp; **2024.04** &nbsp; Excited to announce my new paper, Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique (ICML 2024). We present that the optimal acceleration mechanism in minimax optimization and fixed-point problems is not unique. Surprisingly, our new algorithms are H-dual to the prior anchor-based accelerated methods: We discover H-duality in another setups!   <br><br>
+        <i class="fa-regular fa-newspaper"></i> &nbsp; **2023.12** &nbsp; I attended NeurIPS 2023 and gave a poster presentation. <br><br>
+        <i class="fa-regular fa-newspaper"></i> &nbsp; **2023.11** &nbsp; Excited to announce Mirror Duality in Convex Optimization, which is the joint work with MIT EECS and UW Madion CS. This paper provides a novel perspective on gradient reduction in the mirror descent framework for Banach spaces, and we hope this work opens the door to interesting questions on gradient reduction algorithms. <br><br>
+        <i class="fa-regular fa-newspaper"></i> &nbsp; **2023.09** &nbsp; H-duality paper is accepted at NeurIps 2023. <br><br>
+        <i class="fa-regular fa-newspaper"></i> &nbsp; **2023.07** &nbsp; I attended ICML 2023, and gave an oral presentation (Top 3 papers) at the Workshop: Duality Principles in Modern Machine Learning. <br><br>
+        <i class="fa-regular fa-newspaper"></i> &nbsp; **2023.07** &nbsp; I started a research internship under Prof. Asuman Ozdaglar. We hope to extend H-duality, which is presented in my paper, into various settings. <br><br>
+        <i class="fa-regular fa-newspaper"></i> &nbsp; **2023.05** &nbsp; My first paper is uploaded in Arxiv! This is the joint work with MIT EECS. This work presents a new duality principle: H-duality, a duality between optimization algorithms for reducing function values and reducing gradient magnitude. To the best of our knowledge, this work is the first instance of a duality of optimization algorithms. <br><br>
+        <i class="fa-regular fa-newspaper"></i> &nbsp; **2022.09** &nbsp; I joined the Optimization Research Group led by Prof. Ernest Ryu as a research intern.  <br><br>
+        <i class="fa-regular fa-newspaper"></i> &nbsp; **2021.12** &nbsp; I won a gold medal in the Korean Mathematics Competition for Undergraduate Students. <br><br>
+        <i class="fa-regular fa-newspaper"></i> &nbsp; **2021.10** &nbsp; I'm in third place in the pair section of the Simon-Mararis Mathematics Competition, with Taeyeong Noh. <br><br>
+        <i class="fa-regular fa-newspaper"></i> &nbsp; **2020.12** &nbsp; I won a gold medal in the Korean Mathematics Competition for Undergraduate Students. <br><br>
+        <i class="fa-regular fa-newspaper"></i> &nbsp; **2019.02** &nbsp; I won a silver medal (11th place) in the Romanian Masters of Mathematics.
     design:
       columns: '1'
 ---
