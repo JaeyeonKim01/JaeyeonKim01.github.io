@@ -1,0 +1,8 @@
+- date: "2024-03"
+  content: "In 2024 Spring, I will serve as an undergraduate teaching assistant on Machine Learning Theory."
+- date: "2024-02"
+  content: "In 2024 Spring, I will lead a 학생자율세미나: Deep Learning Theory, with Jinhee Paeng and Sunwoo Kim. The primary content of this course is the overview of recent developments in Deep Learning Theory. Anyone interested can sign up for the course!"
+- date: "2023-12"
+  content: "I attended NeurIPS 2023 and gave a poster presentation."
+- date: "2023-11"
+  content: "Excited to announce Mirror Duality in Convex Optimization, which is the joint work with Prof. Asuman Ozdaglar and Chanwoo Park at MIT EECS and Prof. Jelena Diakonikolas at UW-Madison CS. This paper provides a novel perspective on gradient reduction in the mirror descent framework for Banach spaces, and we hope this work opens the door to interesting questions on gradient reduction algorithms."
