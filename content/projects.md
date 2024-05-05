@@ -37,5 +37,17 @@ sections:
       title: Teaching Experiences
       text: '*2024 Spring*, **Student Seminar** <br><br> *2024 Spring*, **Mathematical Machine Learning Theory** <br><br> *2022 Fall*, **Mathematical Foundation of  Deep Neural Networks**'
     design:
-      columns: '2'
+      columns: '1'
+    
+  - block: markdown
+    content:
+      title: Honors and awards
+      text: '*2022*, **NeurIPS Scholar Award** <br><br>
+            *2021.10*, **Simon Marais Mathematics Competition, 3rd prize** <br><br>
+            *2021,2020*, **Korean Undergraduates Mathematics Competition, Gold Prize** <br><br>
+            *2020-2023*, **Presidential Science Scholarship from Korea Student Aid Foundation** <br><br>
+            *2019*, **Romanian Masters of Mathematics, Silver Medal**'
+    design:
+      columns: '1'
+    
 ---
