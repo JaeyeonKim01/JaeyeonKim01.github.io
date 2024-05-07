@@ -35,7 +35,7 @@ sections:
   - block: markdown
     content:
       title: Teaching Experiences
-      text: '<i class="fas fa-chalkboard"></i> &nbsp; **Student Seminar**, 2024 Spring <br><br>
+      text: '<i class="fas fa-chalkboard"></i> &nbsp; **[Student Seminar](/content/project/example/index.md)**, 2024 Spring <br><br>
              <i class="fas fa-chalkboard"></i> &nbsp; **[Mathematical Machine Learning Theory](https://ernestryu.com/courses/MLT.html)**, 2024 Spring <br><br>
              <i class="fas fa-chalkboard"></i> &nbsp; **[Mathematical Foundation of  Deep Neural Networks](https://ernestryu.com/courses/deep_learning.html)**, 2022 Fall'
     design:
