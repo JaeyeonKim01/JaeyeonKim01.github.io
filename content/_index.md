@@ -52,9 +52,9 @@ sections:
     content:
       title: Recent News
       text: |
-          <i class="fa-regular fa-newspaper"></i> &nbsp; **2024.09** &nbsp; I'll start my Ph.D. at Harvard University, prospectively advised by Prof. Sitan Chen. I'm really thrilled to pursue my research career at Harvard University! <br><br>
-          <i class="fa-regular fa-newspaper"></i> &nbsp; **2024.04** &nbsp; Excited to announce my new paper, Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique (ICML 2024). We present that the optimal acceleration mechanism in minimax optimization and fixed-point problems is not unique. Surprisingly, our new algorithms are H-dual to the prior anchor-based accelerated methods: We discover H-duality in another setups!   <br><br>
-          <i class="fa-regular fa-newspaper"></i> &nbsp; **2023.12** &nbsp; I attended NeurIPS 2023 and gave a poster presentation. <br><br>
+          <i class="fa-regular fa-newspaper"></i> &nbsp; **2024.09** &nbsp; I'll start my Ph.D. at **Harvard University**, prospectively advised by Prof. [Sitan Chen](https://sitanchen.com/). I'm really thrilled to pursue my research career at Harvard University! <br><br>
+          <i class="fa-regular fa-newspaper"></i> &nbsp; **2024.04** &nbsp; Excited to announce my new paper, [Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique](https://arxiv.org/abs/2404.13228) (ICML 2024). By proposing novel algorithms, we suggested that the optimal acceleration mechanism in minimax optimization and fixed-point problems is not unique. Surprisingly, our new algorithms are **H-dual** to the prior anchor-based accelerated methods: We discover H-duality in another setups!   <br><br>
+          <i class="fa-regular fa-newspaper"></i> &nbsp; **2023.12** &nbsp; I attended [NeurIPS 2023](https://neurips.cc/Conferences/2023) and gave a poster presentation. <br><br>
     design:
       columns: '1'
   
@@ -71,7 +71,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern at MIT
-          company: Under Professor Asuman Ozdaglar
+          company: Under Professor [Asuman Ozdaglar](https://scholar.google.com/citations?user=GcuxcLYAAAAJ&hl=en)
           company_url: ''
           company_logo: 
           location: 
@@ -79,7 +79,7 @@ sections:
           date_end: '2023-08-31'
           description: Research on Optimization Theory
         - title: Research Intern at Seoul National University
-          company: Under Professor Ernest Ryu
+          company: Under Professor [Ernest Ryu](https://ernestryu.com/)
           company_url: ''
           company_logo: 
           location: 
