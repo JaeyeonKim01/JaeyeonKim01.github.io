@@ -48,7 +48,8 @@ sections:
             <i class="fas fa-trophy"></i> &nbsp; **Simon Marais Mathematics Competition, 3rd prize**, 2021 <br><br>
             <i class="fas fa-trophy"></i> &nbsp; **Korean Undergraduates Mathematics Competition, Gold Prize**, 2020, 2021 <br><br>
             <i class="fas fa-trophy"></i> &nbsp; **Presidential Science Scholarship from Korea Student Aid Foundation**, 2020 - 2023 <br><br>
-            <i class="fas fa-trophy"></i> &nbsp; **Romanian Masters of Mathematics, Silver Medal**, 2019'
+            <i class="fas fa-trophy"></i> &nbsp; **Romanian Masters of Mathematics, Silver Medal**, 2019
+            <i class="fas fa-trophy"></i> &nbsp; **Korean Finalists (13 students) for International Mathematical Olympiad (IMO)**, 2018, 2019'
     design:
       columns: '1'
     
