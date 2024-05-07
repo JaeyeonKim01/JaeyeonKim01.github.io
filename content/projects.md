@@ -36,8 +36,8 @@ sections:
     content:
       title: Teaching Experiences
       text: '<i class="fas fa-chalkboard"></i> &nbsp; **Student Seminar**, 2024 Spring <br><br>
-             <i class="fas fa-chalkboard"></i> &nbsp; **Mathematical Machine Learning Theory**, 2024 Spring <br><br>
-             <i class="fas fa-chalkboard"></i> &nbsp; **Mathematical Foundation of  Deep Neural Networks**, 2022 Fall'
+             <i class="fas fa-chalkboard"></i> &nbsp; **[Mathematical Machine Learning Theory](https://ernestryu.com/courses/MLT.html)**, 2024 Spring <br><br>
+             <i class="fas fa-chalkboard"></i> &nbsp; **[Mathematical Foundation of  Deep Neural Networks](https://ernestryu.com/courses/deep_learning.html)**, 2022 Fall'
     design:
       columns: '1'
     
