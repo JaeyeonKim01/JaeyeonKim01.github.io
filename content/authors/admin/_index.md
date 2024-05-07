@@ -116,9 +116,9 @@ social:
 highlight_name: true
 ---
 
-Hi, my name is Jaeyeon Kim! I'm currently an undergraduate in SNU, and will be joining Harvard University as a Ph.D. student at CS. My research interest spans optimization and machine learning. 
-<br> 
-Feel free to reach me! I'd love to discuss and potentially collaborate on machine learning theory.
-<br> 
-In my undergraduate research journey, I was fortunate to work with Prof. Asuman Ozdaglar and Prof. Ernest Ryu. I've also been closely working with Chanwoo Park since 2022.
+ Hi, my name is Jaeyeon Kim! I'm currently an undergraduate in SNU. i'm joining Harvard CS as a Ph.D. student, starting this September. My research interest spans optimization and machine learning. 
+<br><br> 
+ Feel free to reach me! I'd love to discuss and potentially collaborate on machine learning theory.
+<br><br>
+ In my undergraduate research journey, I was fortunate to work with Prof. Asuman Ozdaglar and Prof. Ernest Ryu.
 {style="text-align: justify;"}
