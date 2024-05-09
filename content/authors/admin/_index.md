@@ -116,5 +116,5 @@ social:
 highlight_name: true
 ---
 
- Hi, my name is Jaeyeon Kim! I'm currently an undergraduate in SNU. i'm joining Harvard CS as a Ph.D. student, starting this September. My research interest spans optimization and machine learning. Feel free to reach me! I'd love to discuss and potentially collaborate on machine learning theory.
+ Hi, my name is Jaeyeon Kim! I'm currently an undergraduate in SNU. Starting this September, I'm joining Harvard CS as a Ph.D. student. My research interest spans optimization and machine learning. Feel free to reach me! I'd love to discuss and potentially collaborate on machine learning theory.
 {style="text-align: justify;"}
