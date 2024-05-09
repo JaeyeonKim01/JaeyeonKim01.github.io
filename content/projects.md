@@ -43,7 +43,7 @@ sections:
     
   - block: markdown
     content:
-      title: Honors and awards
+      title: Honors and Awards
       text: '<i class="fas fa-trophy"></i> &nbsp; **NeurIPS Scholar Award**, 2023 <br><br>
             <i class="fas fa-trophy"></i> &nbsp; **Simon Marais Mathematics Competition, 3rd prize**, 2021 <br><br>
             <i class="fas fa-trophy"></i> &nbsp; **Korean Undergraduates Mathematics Competition, Gold Prize**, 2020, 2021 <br><br>
