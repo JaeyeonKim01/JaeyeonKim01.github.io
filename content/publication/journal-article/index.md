@@ -18,7 +18,7 @@ publishDate: "2024-04-30"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "*ICML*, 2024"
+publication: "*ICML*, 2024 (Spotlight)"
 publication_short: ""
 
 abstract: Recently, accelerated algorithms using the anchoring mechanism for minimax optimization and fixed-point problems have been proposed, and matching complexity lower bounds establish their optimality. In this work, we present the surprising observation that the optimal acceleration mechanism in minimax optimization and fixed-point problems is not unique. Our new algorithms achieve exactly the same worst-case convergence rates as existing anchor-based methods while using materially different acceleration mechanisms. Specifically, these new algorithms are dual to the prior anchor-based accelerated methods in the sense of H-duality. This finding opens a new avenue of research on accelerated algorithms since we now have a family of methods that empirically exhibit varied characteristics while having the same optimal worst-case guarantee.
