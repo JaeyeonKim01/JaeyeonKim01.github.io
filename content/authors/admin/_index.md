@@ -25,12 +25,11 @@ organizations:
     url: https://www.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest spans theoretical perspective of Machine Learning.
+bio: My research interest spans optimization and science of artificial intelligence.
 
 # Interests to show in About widget
 interests:
-  - Machine Learning Theory
-  - Optimization Theory
+  - Optimization and Science of AI
 
 # Education to show in About widget
 education:
@@ -116,5 +115,5 @@ social:
 highlight_name: true
 ---
 
- Hi, my name is Jaeyeon Kim! I'm currently an undergraduate in SNU. Starting this September, I'm joining Harvard CS as a Ph.D. student. My research interest spans optimization and machine learning. Feel free to reach me! I'd love to discuss and potentially collaborate on machine learning theory.
+ Hi, my name is Jaeyeon Kim! I'm the first-year Ph.D. student at Harvard CS. My research interest spans the theory and science of artificial intelligence.
 {style="text-align: justify;"}
