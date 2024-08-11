@@ -29,7 +29,8 @@ bio: My research interest spans optimization and science of artificial intellige
 
 # Interests to show in About widget
 interests:
-  - Optimization and Science of AI
+  - Optimization Theory
+  - Machine Learning Theory
 
 # Education to show in About widget
 education:
