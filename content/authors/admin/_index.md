@@ -116,6 +116,13 @@ social:
 highlight_name: true
 ---
 
- Hi, my name is Jaeyeon Kim! I'm the first-year Ph.D. student at Harvard CS. My research interest spans the theory and science of artificial intelligence. I completed my undergraduate at Seoul National University, where I closely workd with Ernest K. Ryu. I'm currently working at:
+ Hi, my name is Jaeyeon Kim! I'm the first-year Ph.D. student at Harvard CS. My research interest spans the theory and science of artificial intelligence. I completed my undergraduate at Seoul National University, where I closely workedd with Ernest K. Ryu. I'm currently working at: <br><br>
+
+ * Training dynamics of diffusion models
+ * Science of In-Context Learning
+ * Theory of Low-Rank Adaptation
+
+<br><br>
+Feel free to reach me! I'm open to disccusion and potential collboration.
  
 {style="text-align: justify;"}
