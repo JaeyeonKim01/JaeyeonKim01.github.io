@@ -30,7 +30,7 @@ bio: My research interest spans optimization and science of artificial intellige
 # Interests to show in About widget
 interests:
   - Optimization Theory
-  - Machine Learning Theory
+  - Science of Deep Learning
 
 # Education to show in About widget
 education:
@@ -116,5 +116,6 @@ social:
 highlight_name: true
 ---
 
- Hi, my name is Jaeyeon Kim! I'm the first-year Ph.D. student at Harvard CS. My research interest spans the theory and science of artificial intelligence.
+ Hi, my name is Jaeyeon Kim! I'm the first-year Ph.D. student at Harvard CS. My research interest spans the theory and science of artificial intelligence. I completed my undergraduate at Seoul National University, where I closely workd with Ernest K. Ryu. I'm currently working at:
+ 
 {style="text-align: justify;"}
