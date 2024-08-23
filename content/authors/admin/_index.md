@@ -120,6 +120,6 @@ highlight_name: true
  * Training dynamics of diffusion models
  * Science of In-Context Learning
  * Theory of Low-Rank Adaptation
-<br> Feel free to reach me! I'm open to disccusion and potential collboration.
+Feel free to reach me! I'm open to disccusion and potential collboration.
  
 {style="text-align: justify;"}
