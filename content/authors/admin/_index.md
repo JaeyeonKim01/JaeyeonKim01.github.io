@@ -116,10 +116,13 @@ social:
 highlight_name: true
 ---
 
- Hi, my name is Jaeyeon Kim! I'm the first-year Ph.D. student at Harvard CS, prospectively advised by [Sitan Chen](https://sitanchen.com/). My research interest spans the theory and science of artificial intelligence. I completed my undergraduate at Seoul National University, where I closely worked with [Ernest Ryu](https://ernestryu.com/). I'm currently working at: <br>
+ Hi, my name is Jaeyeon Kim! I'm a first-year Ph.D. student at Harvard CS, prospectively advised by [Sitan Chen](https://sitanchen.com/) and [Sham Kakade](https://sham.seas.harvard.edu/). My research interest spans the theory and science of artificial intelligence. I received B.S. in Mathematics from Seoul National University, where I closely worked with [Ernest Ryu](https://ernestryu.com/) in optimization theory.
+ 
+ I'm currently working at: <br>
  * Training dynamics of diffusion models
  * Science of In-Context Learning
  * Theory of Low-Rank Adaptation
-Feel free to reach me! I'm open to disccusion and potential collboration.
+
+Feel free to reach me! I'm open to discussion and potential collaboration.
  
 {style="text-align: justify;"}
