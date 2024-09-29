@@ -1,5 +1,5 @@
 ---
-title: "Task Diversity Shortens ICL Plateau"
+title: "Task Diversity Shortens the ICL Plateau"
 authors:
 - admin*
 - Sehyun Kwon
