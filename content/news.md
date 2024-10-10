@@ -7,7 +7,7 @@ sections:
     content:
       title: News
       text: |
-         <i class="fa-regular fa-newspaper"></i> &nbsp; **2024.10** &nbsp; Excited to announce my new paper, [Task Diversity Shortens the ICL Plateau](https://arxiv.org/abs/2410.05448), which is the joint work with Princeton and Krafton. We provide clear and simple instances of the `blessing of task diversity'. <br><br>
+        <i class="fa-regular fa-newspaper"></i> &nbsp; **2024.10** &nbsp; Excited to announce my new paper, [Task Diversity Shortens the ICL Plateau](https://arxiv.org/abs/2410.05448), which is the joint work with Princeton and Krafton. We provide clear and simple instances of the `blessing of task diversity'. <br><br>
         <i class="fa-regular fa-newspaper"></i> &nbsp; **2024.09** &nbsp; I'll start my Ph.D. at **Harvard University**, prospectively advised by Prof. [Sitan Chen](https://sitanchen.com/). I'm really thrilled to pursue my research career at Harvard University! <br><br>
         <i class="fa-regular fa-newspaper"></i> &nbsp; **2024.08** &nbsp; I'm honored to be selected for the Ilju Foundation scholarship, which supports graduate students studying abroad. <br><br>
         <i class="fa-regular fa-newspaper"></i> &nbsp; **2024.04** &nbsp; Excited to announce my new paper, [Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique](https://arxiv.org/abs/2404.13228) (ICML 2024). By proposing novel algorithms, we suggested that the optimal acceleration mechanism in minimax optimization and fixed-point problems is not unique. Surprisingly, our new algorithms are **H-dual** to the prior anchor-based accelerated methods: We discover H-duality in another setup!   <br><br>
