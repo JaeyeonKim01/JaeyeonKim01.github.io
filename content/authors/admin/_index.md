@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jaeyeon Kim
+title: Jaeyeon (Jay) Kim
 
 # Name pronunciation (optional)
 # name_pronunciation: Jaeyeon Kim
@@ -120,9 +120,9 @@ highlight_name: true
  
  I'm currently working at: <br>
  * Training dynamics of diffusion models
- * Science of In-Context Learning
+ * Science of multi-task training
  * Theory of Low-Rank Adaptation
 
-Feel free to reach me! I'm open to discussion and potential collaboration.
+Feel free to reach me! I'm open to talking with you and potential collaboration.
  
 {style="text-align: justify;"}
