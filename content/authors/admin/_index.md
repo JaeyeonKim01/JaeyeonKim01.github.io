@@ -122,6 +122,10 @@ highlight_name: true
 
   Fortunately, I worked with [Prof. Ernest Ryu](https://ernestryu.com/) in Optimization Theory. I discovered [H-duality](https://arxiv.org/abs/2305.06628), a duality between first-order algorithms. H-duality is the duality between algorithms, thus distinct from any previously known duality, and further extended on various setups by my works ([Mirror Descent](https://arxiv.org/abs/2311.17296), [Fixed-point problems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1bXthLsAAAAJ&citation_for_view=1bXthLsAAAAJ:9yKSN-GCB0IC)).
 
+ At Harvard University, I turned my attention to Diffusion Models. With amazing and supportive professors, my recent work on [Masked Diffusion Models](https://arxiv.org/abs/2502.06768) demystifies its training and inference. My broad goal is to develop an efficient generative model for discrete data, as well as mathematically identify scientific phenomena on Diffusion Models.
+
+Feel free to reach me!
+
 
 Feel free to reach me!
  
