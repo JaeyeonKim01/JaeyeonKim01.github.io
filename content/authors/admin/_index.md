@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jaeyeon Kim (Jay)
+title: Jaeyeon Kim
 
 # Name pronunciation (optional)
 # name_pronunciation: Jaeyeon Kim
