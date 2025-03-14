@@ -120,7 +120,7 @@ highlight_name: true
 
  My academic journey started in junior high school, with multiple awards in [Math Olympiads](https://rmms.lbi.ro/rmm2019/index.php?id=results_math). Since then, I've always been driven by solving challenging problems with mathematics. Afterward, I studied Mathematics at Seoul National University, where I received B.S. in Mathematics. I loved to organize mathematical concepts in my own words--also I got 4.3/4.3 in every math course that I've taken! 
 
-  Fortunately, I worked with Prof. Ernest Ryu in Optimization Theory. 
+  Fortunately, I worked with [Prof. Ernest Ryu](https://ernestryu.com/) in Optimization Theory. I discovered [H-duality](https://arxiv.org/abs/2305.06628), a duality between first-order algorithms. H-duality is the duality between algorithms, thus distinct from any previously known duality, and further extended on various setups by my works ([Mirror Descent](https://arxiv.org/abs/2311.17296), [Fixed-point problems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1bXthLsAAAAJ&citation_for_view=1bXthLsAAAAJ:9yKSN-GCB0IC)).
 
 
 Feel free to reach me!
