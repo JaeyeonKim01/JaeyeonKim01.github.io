@@ -1,7 +1,7 @@
 ---
 title: "Task Diversity Shortens the ICL Plateau"
 authors:
-- **Jaeyeon Kim**
+- admin
 - Sehyun Kwon*
 - Joo Young Choi
 - Jongho Park
