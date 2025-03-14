@@ -36,8 +36,6 @@ featured: false
 
 # links:
 # - name: ""
-# url_pdf: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/4947292b9f5e7d4ab792fa35537f8b96-Abstract-Conference.html'
-url: "https://arxiv.org/abs/2410.05448"
 url_code: ''
 url_dataset: ''
 url_poster: ''
