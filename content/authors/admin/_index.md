@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jaeyeon (Jay) Kim
+title: Jaeyeon Kim (Jay)
 
 # Name pronunciation (optional)
 # name_pronunciation: Jaeyeon Kim
@@ -124,9 +124,6 @@ highlight_name: true
 
  At Harvard University, I turned my attention to Diffusion Models. With amazing and supportive professors, my recent work on [Masked Diffusion Models](https://arxiv.org/abs/2502.06768) demystifies its training and inference. My broad goal is to develop an efficient generative model for discrete data, as well as mathematically identify scientific phenomena on Diffusion Models.
 
-Feel free to reach me!
-
-
-Feel free to reach me!
+Feel free to reach out to me! I'd be happy to chat on various topics on Machine Learning.
  
 {style="text-align: justify;"}
