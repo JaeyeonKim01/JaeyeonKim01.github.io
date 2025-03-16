@@ -1,5 +1,5 @@
 ---
-title: "LoRA Training Provably Converges to a Low-Rank Global Minimum or It Fails Loudly (But it Probably Won't Fail)"
+title: "LoRA Training Provably Converges to a Low-Rank Global Minimum or It Fails Loudly"
 authors:
 - Junsu Kim
 - admin
