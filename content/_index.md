@@ -71,6 +71,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Ph.D. Student at Harvard
+          company: Under Professor [Sitan Chen](https://sitanchen.com/) and [Sham KaKade](https://shamulent.github.io/)
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2024-09-01'
+          date_end: ''
+          description: Diffusion Models
         - title: Research Intern at MIT
           company: Under Professor [Asuman Ozdaglar](https://scholar.google.com/citations?user=GcuxcLYAAAAJ&hl=en)
           company_url: ''
