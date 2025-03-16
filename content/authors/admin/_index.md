@@ -118,12 +118,12 @@ highlight_name: true
 
  Hello, my name is Jaeyeon Kim! I'm a first-year Ph.D. student at Harvard CS, prospectively advised by [Sitan Chen](https://sitanchen.com/) and [Sham Kakade](https://sham.seas.harvard.edu/).
 
- My academic journey started in junior high school, with multiple awards in [Math Olympiads](https://rmms.lbi.ro/rmm2019/index.php?id=results_math). Since then, I've always been driven by solving challenging problems with mathematics. Afterward, I studied Mathematics at Seoul National University, where I received B.S. in Mathematics. I loved to organize mathematical concepts in my own words--also I got 4.3/4.3 in every math course that I've taken! 
+ My academic journey began in junior high school, with multiple awards in [Math Olympiads](https://rmms.lbi.ro/rmm2019/index.php?id=results_math). Since then, I've been driven by a passion for solving challenging problems through mathematics. Afterward, I earned a B.S. in Mathematics from Seoul National University, where I enjoyed organizing mathematical concepts in my own words.
 
-  Fortunately, I worked with [Prof. Ernest Ryu](https://ernestryu.com/) in Optimization Theory. I discovered [H-duality](https://arxiv.org/abs/2305.06628), a duality between first-order algorithms. H-duality is the duality between algorithms, thus distinct from any previously known duality, and further extended on various setups by my works ([Mirror Descent](https://arxiv.org/abs/2311.17296), [Fixed-point problems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1bXthLsAAAAJ&citation_for_view=1bXthLsAAAAJ:9yKSN-GCB0IC)).
+ During my undergraduate years, I had the privilege of working with [Prof. Ernest Ryu](https://ernestryu.com/) in Optimization Theory-leading to the discovery of [H-duality](https://arxiv.org/abs/2305.06628)-a duality between first-order algorithms. Unlike conventional dualities, H-duality characterizes the relationship between algorithms themselves. My research has since extended to various setups. ([Mirror Descent](https://arxiv.org/abs/2311.17296), [Fixed-point problems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1bXthLsAAAAJ&citation_for_view=1bXthLsAAAAJ:9yKSN-GCB0IC)).
 
- At Harvard University, I turned my attention to Diffusion Models. With amazing and supportive professors, my recent work on [Masked Diffusion Models](https://arxiv.org/abs/2502.06768) demystifies its training and inference. My broad goal is to develop an efficient generative model for discrete data, as well as mathematically identify scientific phenomena on Diffusion Models.
+ At Harvard, my research has shifted toward Diffusion Models. With incredible advisors, my recent work on [Masked Diffusion Models](https://arxiv.org/abs/2502.06768) sheds light on their training and inference processes. My broader goal is to develop efficient generative models for discrete data while deepening our mathematical understanding of Diffusion Models.
 
-Feel free to reach out to me! I'd be happy to chat on various topics on Machine Learning.
+I’m always happy to chat about Machine Learning, Optimization, and beyond—feel free to reach out!
  
 {style="text-align: justify;"}
