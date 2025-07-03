@@ -29,8 +29,8 @@ bio: My research interest spans optimization and science of artificial intellige
 
 # Interests to show in About widget
 interests:
+  - Diffusion Generative Models
   - Optimization Theory
-  - Science of Deep Learning
 
 # Education to show in About widget
 education:
@@ -116,11 +116,11 @@ social:
 highlight_name: true
 ---
 
- Hello, my name is Jaeyeon Kim! I'm a first-year Ph.D. student at Harvard CS, prospectively advised by [Sitan Chen](https://sitanchen.com/) and [Sham Kakade](https://sham.seas.harvard.edu/).
+ Hello, my name is Jaeyeon Kim! I'm a first-year Ph.D. student at Harvard CS, advised by [Sitan Chen](https://sitanchen.com/) and [Sham Kakade](https://sham.seas.harvard.edu/).
 
- My academic journey began in junior high school, with multiple awards in [Math Olympiads](https://rmms.lbi.ro/rmm2019/index.php?id=results_math). Since then, I've been driven by a passion for solving challenging problems through mathematics. Afterward, I earned a B.S. in Mathematics from Seoul National University, where I enjoyed organizing mathematical concepts in my own words.
+ My academic journey began in junior high school, with multiple awards in [Math Olympiads](https://rmms.lbi.ro/rmm2019/index.php?id=results_math). Since then, I've been driven by a passion for solving challenging problems through mathematics. Afterward, I earned a B.S. in Mathematics from Seoul National University, where I enjoyed organizing mathematical concepts in my own words. I got an A+ in all of the math courses that I have taken!!
 
- During my undergraduate years, I had the privilege of working with [Prof. Ernest Ryu](https://ernestryu.com/) in Optimization Theory-leading to the discovery of [H-duality](https://arxiv.org/abs/2305.06628)-a duality between first-order algorithms. Unlike conventional dualities, H-duality characterizes the relationship between algorithms themselves. My research has since extended to various setups. ([Mirror Descent](https://arxiv.org/abs/2311.17296), [Fixed-point problems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1bXthLsAAAAJ&citation_for_view=1bXthLsAAAAJ:9yKSN-GCB0IC)).
+ During my undergraduate years, I had the privilege of working in Optimization Theory with professors [Ernest Ryu](https://ernestryu.com/) and [Asu Ozdaglar](https://asu.mit.edu/). We have developed H-duality, a novel duality framework in optimization algorithms. ([1](https://arxiv.org/abs/2305.06628), [2](https://arxiv.org/abs/2311.17296), [3](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1bXthLsAAAAJ&citation_for_view=1bXthLsAAAAJ:9yKSN-GCB0IC))
 
  At Harvard, my research has shifted toward Diffusion Models. With incredible advisors, my recent work on [Masked Diffusion Models](https://arxiv.org/abs/2502.06768) sheds light on their training and inference processes. My broader goal is to develop efficient generative models for discrete data while deepening our mathematical understanding of Diffusion Models.
 
