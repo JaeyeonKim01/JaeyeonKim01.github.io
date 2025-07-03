@@ -63,7 +63,8 @@ sections:
   - block: markdown
     content:
       title: Collaborators
-      text: I enjoy working with student collaborators, especially with enthusiastic and self-motivated students! Here's my current/previous peer collaborators! **If you are a junior student and want to work with me, don't hesitate to reach out to me! <br><br>
+      text: |
+    I enjoy working with student collaborators, especially with enthusiastic and self-motivated students! Here's my current/previous peer collaborators! **If you are a junior student and want to work with me, don't hesitate to reach out to me! <br><br>
         <i class="fa-regular fa-newspaper"></i> [Chanwoo Park](https://chanwoo-park-official.github.io/): Optimization theory, Oct 2022 - Oct 2023. <br> ([1]https://proceedings.neurips.cc/paper_files/paper/2023/hash/4947292b9f5e7d4ab792fa35537f8b96-Abstract-Conference.html), [2](https://arxiv.org/abs/2311.17296))
         <i class="fa-regular fa-newspaper"></i> [Junsu Kim](https://junsukim.notion.site/): Theoretical analysis of LoRA fine-tuning, June 2024 - Jan 2025. ([3](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=1bXthLsAAAAJ&citation_for_view=1bXthLsAAAAJ:UeHWp8X0CEIC)) <br>
         <i class="fa-regular fa-newspaper"></i> [Kiwhan Song](https://kiwhan.dev/): Diffusion models, Jan 2025 - Present <br>
