@@ -52,7 +52,8 @@ sections:
     content:
       title: Recent News
       text: |
-          <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.05** &nbsp; Two papers ([Discrete Diffusion](https://arxiv.org/abs/2502.06768), [LoRA theory](https://arxiv.org/abs/2502.09376)) are accepted at ICML 2025, both as oral presentations! (Top 1.0%). <br><br>
+          <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.07** &nbsp; My paper on [Masked Diffusion](https://arxiv.org/abs/2502.06768) recieved an outstanding paper award at ICML 2025! This award was given to just 6 papers. ([Award website](https://icml.cc/virtual/2025/awards_detail), [News article](https://kempnerinstitute.harvard.edu/news/kempner-institute-researchers-win-outstanding-paper-award-at-icml-2025/), [Linkedin post] (https://www.linkedin.com/posts/jaeyeon-kim-75317b281_kempner-institute-collaborators-win-outstanding-activity-7351691276083228672-6Xgj/)) <br><br>
+          <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.05** &nbsp; Two papers ([Masked Diffusion](https://arxiv.org/abs/2502.06768), [LoRA theory](https://arxiv.org/abs/2502.09376)) are accepted at ICML 2025, both as oral presentations! (Top 1.0%). <br><br>
           <i class="fa-regular fa-newspaper"></i> &nbsp; **2024.09** &nbsp;  I’m starting my Ph.D. at Harvard University, prospectively advised by Prof. [Sitan Chen](https://sitanchen.com/) and [Sham KaKade](https://shamulent.github.io/). I’m really thrilled to pursue my research career at Harvard University! <br><br>
           <i class="fa-regular fa-newspaper"></i> &nbsp; **2024.08** &nbsp; I'm honored to be selected as Ilju Foundation scholarship, which supports graduate students studying abroad. <br><br>
           <i class="fa-regular fa-newspaper"></i> &nbsp; **2024.04** &nbsp; Excited to announce my new paper, [Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique](https://arxiv.org/abs/2404.13228) (ICML 2024, Spotlight, Top 3.5%). By proposing novel algorithms, we suggested that the optimal acceleration mechanism in minimax optimization and fixed-point problems is not unique. Surprisingly, our new algorithms are **H-dual** to the prior anchor-based accelerated methods: We discover H-duality in other setups! <br><br>
@@ -64,7 +65,7 @@ sections:
     content:
       title: Collaborators
       text: |
-        </i> I enjoy working with my peers!. **If you are a junior student and willing to work with me, do not hesitate to reach out to me!** <br><br>
+        </i> I enjoy working with my peers! **If you are a junior student and willing to work with me, do not hesitate to reach out to me!** <br><br>
         <i class="fa-regular fa-newspaper"></i> [Chanwoo Park](https://chanwoo-park-official.github.io/): Optimization theory, Oct 2022 - Oct 2023.  ([1](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4947292b9f5e7d4ab792fa35537f8b96-Abstract-Conference.html), [2](https://arxiv.org/abs/2311.17296)) <br>
         <i class="fa-regular fa-newspaper"></i> [Junsu Kim](https://junsukim.notion.site/): Theoretical analysis of LoRA fine-tuning, June 2024 - Jan 2025. ([3](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=1bXthLsAAAAJ&citation_for_view=1bXthLsAAAAJ:UeHWp8X0CEIC)) <br>
         <i class="fa-regular fa-newspaper"></i> [Kiwhan Song](https://kiwhan.dev/): Diffusion models, Jan 2025 - Present <br>
