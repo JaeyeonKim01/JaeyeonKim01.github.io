@@ -116,14 +116,10 @@ social:
 highlight_name: true
 ---
 
- Hello, my name is Jaeyeon Kim! I'm a first-year Ph.D. student at Harvard CS, advised by [Sitan Chen](https://sitanchen.com/) and [Sham Kakade](https://sham.seas.harvard.edu/).
+ Hello, my name is Jaeyeon Kim! I also go with Jay. I'm currently a first-year Ph.D. student at Harvard CS, advised by [Sitan Chen](https://sitanchen.com/) and [Sham Kakade](https://sham.seas.harvard.edu/).
 
- My academic journey began in junior high school, with multiple awards in [Math Olympiads](https://rmms.lbi.ro/rmm2019/index.php?id=results_math). Since then, I've been driven by a passion for solving challenging problems through mathematics. Afterward, I earned a B.S. in Mathematics from Seoul National University, where I enjoyed organizing mathematical concepts in my own words. I got an A+ in all of the math courses that I have taken!!
+At Harvard, my research goal is to **enhance the community's understanding of current generative models** and also **develop a new paradigm on generative modeling**. My recent work on [Masked Diffusion](https://arxiv.org/abs/2502.06768) received an outstanding paper award at ICML! Previously, I earned a B.S. in Math at Seoul National University, where I worked in Optimization Theory with professors [Ernest Ryu](https://ernestryu.com/) and [Asu Ozdaglar](https://asu.mit.edu/). There, we have developed H-duality, a novel duality framework in optimization algorithms. ([1](https://arxiv.org/abs/2305.06628), [2](https://arxiv.org/abs/2311.17296), [3](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1bXthLsAAAAJ&citation_for_view=1bXthLsAAAAJ:9yKSN-GCB0IC)). In junior high school, where my academic journey began, I won multiple awards in [Math Olympiads](https://rmms.lbi.ro/rmm2019/index.php?id=results_math).
 
- During my undergraduate years, I had the privilege of working in Optimization Theory with professors [Ernest Ryu](https://ernestryu.com/) and [Asu Ozdaglar](https://asu.mit.edu/). We have developed H-duality, a novel duality framework in optimization algorithms. ([1](https://arxiv.org/abs/2305.06628), [2](https://arxiv.org/abs/2311.17296), [3](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1bXthLsAAAAJ&citation_for_view=1bXthLsAAAAJ:9yKSN-GCB0IC))
+My ultimate life goal is to be an influential person in a specific field, which I'm still seeking. My competence is usually in integrating a new field, both in real life and academically. Beyond work, I like to spend time outside, travel, work out, and run.
 
- At Harvard, my research has shifted toward Diffusion Models. With incredible advisors, my recent work on [Masked Diffusion Models](https://arxiv.org/abs/2502.06768) sheds light on their training and inference processes. My broader goal is to develop efficient generative models for discrete data while deepening our mathematical understanding of Diffusion Models.
-
-I’m always happy to chat about Machine Learning, Optimization, and beyond—feel free to reach out!
- 
 {style="text-align: justify;"}
