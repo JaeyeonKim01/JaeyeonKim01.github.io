@@ -60,6 +60,16 @@ sections:
           <i class="fa-regular fa-newspaper"></i> &nbsp; **2023.12** &nbsp; I attended [NeurIPS 2023](https://neurips.cc/Conferences/2023) and gave a poster presentation. <br><br>
     design:
       columns: '1'
+
+    - block: markdown
+    content:
+      title: Talks
+      text: |
+           <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.09** &nbsp; Panel at Delta Podcast, talked about my recent paper on Masked Diffusion Models. [Video]()
+          <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.07** &nbsp; In-person talk at [ICCOPT 2025](https://sites.google.com/view/iccopt2025/home), talked about H-duality. [Slides]()
+          <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.05** &nbsp; Virtual seminar on Ph.D. applications for korean students, hosted by Seoul National University. [Slides]()
+    design:
+      columns: '1'
   
   - block: markdown
     content:
