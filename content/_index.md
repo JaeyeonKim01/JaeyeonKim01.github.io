@@ -61,11 +61,11 @@ sections:
     design:
       columns: '1'
 
-    - block: markdown
+  - block: markdown
     content:
       title: Talks
       text: |
-           <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.09** &nbsp; Panel at Delta Podcast, talked about my recent paper on Masked Diffusion Models. [Video]()
+          <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.09** &nbsp; Panel at Delta Podcast, talked about my recent paper on Masked Diffusion Models. [Video]()
           <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.07** &nbsp; In-person talk at [ICCOPT 2025](https://sites.google.com/view/iccopt2025/home), talked about H-duality. [Slides]()
           <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.05** &nbsp; Virtual seminar on Ph.D. applications for korean students, hosted by Seoul National University. [Slides]()
     design:
