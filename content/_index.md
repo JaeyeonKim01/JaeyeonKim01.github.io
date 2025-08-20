@@ -65,8 +65,8 @@ sections:
     content:
       title: Talks
       text: |
-          <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.09** &nbsp; Panel at Delta Podcast, talked about my recent paper on Masked Diffusion Models. [Video]()
-          <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.07** &nbsp; In-person talk at [ICCOPT 2025](https://sites.google.com/view/iccopt2025/home), talked about H-duality. [Slides]()
+          <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.09** &nbsp; Panel at Delta Podcast, talked about my recent paper on Masked Diffusion Models. [Video](https://www.youtube.com/watch?v=nP9xR3xUjNk&list=PLbMqWRsJ6kP5RaEjp-OBK8VooDSb5RMzz), [Tweet](https://x.com/Jaeyeon_Kim_0/status/1957716581905232241) <br><br>
+          <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.07** &nbsp; In-person talk at [ICCOPT 2025](https://sites.google.com/view/iccopt2025/home), talked about H-duality. [Slides]() <br><br>
           <i class="fa-regular fa-newspaper"></i> &nbsp; **2025.05** &nbsp; Virtual seminar on Ph.D. applications for korean students, hosted by Seoul National University. [Slides]()
     design:
       columns: '1'
